@@ -17,7 +17,7 @@ Everything about me is on my [Website](https://varun-rana.vercel.app/)
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discord.gg/users/580028591782232064)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/580028591782232064)
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/varrunpsd/) 
  
