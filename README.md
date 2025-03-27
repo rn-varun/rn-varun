@@ -1,16 +1,9 @@
 # 💫 About Me:
 Everything about me is on my [Website](https://varun-rana.vercel.app/)
-
-
-🔭 I’m currently working on NodeJS (Backend development)
-
-👯 I’m looking to collaborate on Coding and VFX/GFX projects
-
-🤝 I’m looking for help with Data Structures
  
-🌱 I’m currently learning MERN Stack
+Currently working on .NET and React
 
-⚡ Fun fact -> I used to play a lot of fps games
+⚡ Fun fact -> I play a lot of competitive games
 
 ![Alt Text](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
